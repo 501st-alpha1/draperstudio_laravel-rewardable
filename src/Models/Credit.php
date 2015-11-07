@@ -11,7 +11,7 @@
 
 namespace PackageBackup\Rewardable\Models;
 
-use PackageBackup\Database\Models\Eloquent\Model;
+use PackageBackup\Database\Models\Model;
 use PackageBackup\Rewardable\Repositories\CreditRepository;
 
 class Credit extends Model
