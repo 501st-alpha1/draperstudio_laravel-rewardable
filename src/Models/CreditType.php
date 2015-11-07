@@ -13,7 +13,7 @@ namespace PackageBackup\Rewardable\Models;
 
 use Cviebrock\EloquentSluggable\SluggableInterface;
 use Cviebrock\EloquentSluggable\SluggableTrait;
-use PackageBackup\Database\Models\Eloquent\Model;
+use PackageBackup\Database\Models\Model;
 
 class CreditType extends Model implements SluggableInterface
 {

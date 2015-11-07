@@ -12,7 +12,7 @@
 namespace PackageBackup\Rewardable\Models;
 
 use PackageBackup\Rewardable\Repositories\LeaderboardRepository;
-use PackageBackup\Database\Models\Eloquent\Model;
+use PackageBackup\Database\Models\Model;
 
 class Leaderboard extends Model
 {
