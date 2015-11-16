@@ -13,6 +13,7 @@ namespace PackageBackup\Rewardable\Repositories;
 
 use Carbon\Carbon;
 use PackageBackup\Rewardable\Models\CreditType;
+use PackageBackup\Rewardable\Models\Credit;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Facades\DB;
 
